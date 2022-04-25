@@ -4,8 +4,13 @@
 
 Comandos para configurar o git após a instalação
 
-```
-git config --global user.name "Gabriel Retzlaff"
+`````python
+from time import sleep
 
-git config --global user.email "gretzlaff13@gmail.com"
-```
+
+for c in range(0,4:
+    print(c)
+    sleep(1)
+`````
+
+Testes
