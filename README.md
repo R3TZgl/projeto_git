@@ -36,5 +36,17 @@ else:
 >Esta segundo é apenas para bonito mesmo ^-^
 <a> Isto não é um link, apenas coloquei em azul mesmo.
     
- > sim
+ ## Logos
+ ![Git](Imagens/git.jpg)
+ 
+ ## Páginas
+ [Scrum](scrum.md)
+
+ [Kanban](kanban.md)
+
+ [Comandos básicos de git](comandos_basicos.md)
+ 
+ ## Fontes
+
+Documentação do Markdown [GitHub Pages](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
