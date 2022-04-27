@@ -13,4 +13,9 @@ for c in range(0,4:
     sleep(1)
 `````
 
-Testes
+# Comandos básicos para enviar e trazer code
+
+````bash
+git push origin main # leva do local para o remoto
+git pull origin main # traz do remoto para o local
+````
