@@ -36,4 +36,3 @@ else:
 >Esta segundo é apenas para bonito mesmo ^-^
 <a> Isto não é um link, apenas coloquei em azul mesmo. 
 
-Tchau.
