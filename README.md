@@ -4,10 +4,11 @@
 
 São apenas testes, se divirta com meus erros.
 
+````bash
+git push origin main # leva do local para o remoto
+git pull origin main # traz do remoto para o local
 ````
-Era só isso mesmo
-hehe
-````
+
 ### Isso lembra bastante HTML
 
 Mas não é
@@ -52,7 +53,4 @@ Documentação do Markdown [GitHub Pages](https://docs.github.com/pt/get-started
 
 # Comandos básicos para enviar e trazer code
 
-````bash
-git push origin main # leva do local para o remoto
-git pull origin main # traz do remoto para o local
-````
+Texto legal
