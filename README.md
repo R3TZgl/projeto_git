@@ -50,3 +50,9 @@ else:
 
 Documentação do Markdown [GitHub Pages](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+# Comandos básicos para enviar e trazer code
+
+````bash
+git push origin main # leva do local para o remoto
+git pull origin main # traz do remoto para o local
+````
