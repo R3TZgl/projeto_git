@@ -54,3 +54,5 @@ Documentação do Markdown [GitHub Pages](https://docs.github.com/pt/get-started
 # Comandos básicos para enviar e trazer code
 
 Texto legal
+
+Texto vindo do GitHub
