@@ -38,7 +38,7 @@ else:
 <a> Isto não é um link, apenas coloquei em azul mesmo.
     
  ## Logos
- ![Git](Imagens/git.jpg)
+ ![Git](Imagens/imagemgit.png)
  
  ## Páginas
  [Scrum](scrum.md)
