@@ -4,7 +4,7 @@
 
 São apenas testes, se divirta com meus erros.
 
-`````bash
+````bash
 git push origin main # leva do local para o remoto
 git pull origin main # traz do remoto para o local
 ````
