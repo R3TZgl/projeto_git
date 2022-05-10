@@ -22,6 +22,7 @@ git remote -vv # mostrar a conecção
 +git push origin main # para mandar para o GitHub
 
 
+git clone 'LINK' # clona um repositório do git para o pc
 git checkout -b "branch" # nova branch
 git checkout  'branch' # ir para um branch
 git merge 'branch' # juntar branch na main
